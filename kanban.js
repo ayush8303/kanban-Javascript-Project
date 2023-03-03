@@ -122,3 +122,5 @@ function columnCount() {
 //     content: "Record JavaScript Preview"
 // });
 // console.log(Kanban.getAllTasks());
+const cors = require("cors");
+app.use(cors());

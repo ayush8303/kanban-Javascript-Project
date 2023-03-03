@@ -1,3 +1,6 @@
+const cors = require("cors");
+app.use(cors());
+
 const data = [
   {
     columnId: 0,
