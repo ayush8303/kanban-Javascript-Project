@@ -119,7 +119,6 @@ function columnCount() {
 
 // console.log(Kanban.getAllTasks());
 // Kanban.updateTask(97522, {
-//     columnId: 2,
 //     content: "Record JavaScript Preview"
 // });
 // console.log(Kanban.getAllTasks());
